@@ -1,9 +1,11 @@
 # ``Matrix``
 
+## Русскоязычная версия
+
 > Матрицы являются одной из базовых структур данных в программировании, например, они применяются для представления табличных значений, для вычислительных задач и нейронных сетей.
 
 <details>
-<summary>Реализация библиотеки Matrix. Русскоязычная версия.</summary>
+<summary>Реализация библиотеки Matrix</summary>
 
 1. [Историческая справка](#историческая-справка)
 2. [Матрица](#матрица)
@@ -289,12 +291,12 @@ A =  6  3  4
 
 </details>
 
----
+## The English version
 
 > Matrices are one of the basic data structures in programming, e.g. they are used to represent table values, for computational tasks and neural networks.
 
 <details>
-<summary>Implementation of the Matrix library. The English version 🇬🇧 </summary>
+<summary>Implementation of the Matrix library</summary>
 
 1. [Historical background](#historical-background)
 2. [Matrix](#matrix)

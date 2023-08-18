@@ -1,10 +1,15 @@
 # Matrix
 
+Библиотека для работы с матрицами.  
+A library for working with matrices.
+
+## Русскоязычная версия
+
 <details>
-<summary>Реализация библиотеки Matrix.</summary>
+<summary>Реализация библиотеки Matrix</summary>
 
-
-> ***Более подробную документацию можно прочесть в Matrix/Matrix.docc/Matrix.md*** 
+  
+> Более подробную документацию можно прочесть в **Matrix/Matrix.docc/Matrix.md** 
 
 
 ### Напоминание основных положений о матрице
@@ -61,14 +66,13 @@ A[1,1] = 1, где первый индекс - номер строки, втор
 </details>
 
 
-***
-
+## The English version
 
 <details>
-<summary>Implementation of the Matrix library. The English version. </summary>
+<summary>Implementation of the Matrix library</summary>
 
 
-> ***More detailed documentation can be found in Matrix/Matrix.docc/Matrix.md*** 
+> More detailed documentation can be found in **Matrix/Matrix.docc/Matrix.md** 
 
 
 ### A reminder of the matrix basics
