@@ -77,6 +77,13 @@ public class Matrix {
         createMatrix()
     }
     
+    /*
+    // Инициализатор с использованием convenience
+    convenience init() throws {
+       try self.init(rows: 3, columns: 3)
+    }
+    */
+    
     public init(rows: Int, columns: Int) throws {
         /// Если хотя бы одно из значений параметров является неположительным, то выбрасывается исключение.
         guard rows > 0 && columns > 0 else {
